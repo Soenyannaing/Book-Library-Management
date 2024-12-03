@@ -1,0 +1,16 @@
+.form-auto-render .form-group {
+  margin-bottom: 0;
+}
+.ccm-attr--image_file_extend {
+  position: relative;
+  min-height: 200px;
+  max-height: 490px;
+  overflow-y: hidden;
+  width: inherit;
+  border-radius: 6px;
+  background-color: #FAFAFA;
+  margin-bottom: 15px;
+}
+.nav-text {
+  font-size: 10px;
+}
