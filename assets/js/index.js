@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         explanation: "Yes, you need to apply for an IDP beforehand in order to be able to drive in Japan."
       },
       {
-        question: "On which side of the road do vehicles drive in Japan?",
+        question: "On which side of the road do vehicles drive in Japan Tokyo?",
         options: ["Left-hand side", "Right-hand side"],
         correctAnswer: 0,
         image: "assets/img/quiz_02.png",
